@@ -12,8 +12,6 @@ const getAllChat = async (req, res) => {
 
 
 
-
-
 /// group chat controller
 const getAllChatGroup = async (req, res) => {
   try {
